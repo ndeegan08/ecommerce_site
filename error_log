@@ -1,0 +1,64 @@
+[01-May-2025 05:06:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/deegann1/public_html/project/search.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/search.php on line 135
+[01-May-2025 05:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/deegann1/public_html/project/search.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/search.php on line 135
+[01-May-2025 05:12:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/deegann1/public_html/project/remove_from_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/remove_from_cart.php on line 19
+[01-May-2025 05:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/deegann1/public_html/project/remove_from_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/remove_from_cart.php on line 19
+[01-May-2025 05:44:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/deegann1/public_html/project/remove_from_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/remove_from_cart.php on line 19
+[01-May-2025 05:51:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/deegann1/public_html/project/search.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/search.php on line 135
+[01-May-2025 05:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/deegann1/public_html/project/search.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/search.php on line 135
+[01-May-2025 07:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/deegann1/public_html/project/place_order.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/place_order.php on line 42
+[01-May-2025 07:29:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/deegann1/public_html/project/place_order.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/place_order.php on line 45
+[01-May-2025 07:37:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/deegann1/public_html/project/place_order.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/place_order.php on line 54
+[01-May-2025 07:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/deegann1/public_html/project/place_order.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/place_order.php on line 56
+[01-May-2025 11:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/deegann1/public_html/project/remove_from_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/remove_from_cart.php on line 19
+[01-May-2025 11:47:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/deegann1/public_html/project/remove_from_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/remove_from_cart.php on line 19
+[01-May-2025 11:47:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/deegann1/public_html/project/remove_from_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/remove_from_cart.php on line 19
+[01-May-2025 11:50:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/deegann1/public_html/project/remove_from_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/remove_from_cart.php on line 19
+[01-May-2025 11:51:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/deegann1/public_html/project/remove_from_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/deegann1/public_html/project/remove_from_cart.php on line 19
